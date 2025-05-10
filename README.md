@@ -2,6 +2,9 @@
 
 A telecom churn prediction project using Python. The goal is to identify customers likely to leave and understand key churn drivers.
 
+[![Dashboard Screenshot]([https://github.com/DeepikaGupta29/Customer-Churn-Analysis/blob/main/churn%20service.png])
+
+
 ## 🔹 Key Features
 
 - Cleaned and preprocessed customer data
